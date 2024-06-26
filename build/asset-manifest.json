@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d4e86e67.css",
+    "main.js": "/static/js/main.9ef2d21f.js",
+    "static/js/885.7b0d6cd6.chunk.js": "/static/js/885.7b0d6cd6.chunk.js",
+    "static/js/453.9bb3d7fb.chunk.js": "/static/js/453.9bb3d7fb.chunk.js",
+    "static/media/stage.png": "/static/media/stage.d919c1d97d70e6c37a83.png",
+    "static/media/gift.png": "/static/media/gift.72ee86acedd2926545a0.png",
+    "static/media/bg2.png": "/static/media/bg2.88ebb2edff34f982579a.png",
+    "static/media/bg1.png": "/static/media/bg1.cd9242ca2eb590a9b4f8.png",
+    "static/media/bg3.png": "/static/media/bg3.63dfadc53c8df2ca3778.png",
+    "static/media/badge1.png": "/static/media/badge1.de547f8f548986c4fcb8.png",
+    "static/media/badge2.png": "/static/media/badge2.47064545a89d0ede02b6.png",
+    "static/media/1-a6662edb.png": "/static/media/1-a6662edb.5a7fa63af6dc87c21637.png",
+    "static/media/avatar.png": "/static/media/avatar.5a7fa63af6dc87c21637.png",
+    "static/media/badge3.png": "/static/media/badge3.f8276733970244e1e7d9.png",
+    "static/media/8-ea087ede.png": "/static/media/8-ea087ede.5bca00d5e8d8e8c87929.png",
+    "static/media/5-ab77b716.png": "/static/media/5-ab77b716.55b7934e00a7821da16c.png",
+    "static/media/safe.png": "/static/media/safe.086eebd569aa9a989af8.png",
+    "static/media/7-00479cfa.png": "/static/media/7-00479cfa.0b7ed181750c74f94a99.png",
+    "static/media/stack.png": "/static/media/stack.229fb9398bbfca8fa2f6.png",
+    "static/media/lock.png": "/static/media/lock.21d3ccbf968965e8ebf7.png",
+    "static/media/mail.png": "/static/media/mail.f8a81e5a304e44130393.png",
+    "static/media/versionUpdate.png": "/static/media/versionUpdate.9c1fcd1478476e2f3729.png",
+    "static/media/19-2ac9fd83.png": "/static/media/19-2ac9fd83.acb4956a5e9a42fab206.png",
+    "static/media/11-925c456e.png": "/static/media/11-925c456e.afa8879056e3d0344d6a.png",
+    "static/media/12-ae12c679.png": "/static/media/12-ae12c679.4419d7badd98e2d0bc34.png",
+    "static/media/coin.png": "/static/media/coin.a2b52a3c52f5a918e617.png",
+    "static/media/14-a397ff6b.png": "/static/media/14-a397ff6b.bf42dc65198c191d34b7.png",
+    "static/media/uidimg.png": "/static/media/uidimg.f9c8a4f9c1a875a37cc5.png",
+    "index.html": "/index.html",
+    "main.d4e86e67.css.map": "/static/css/main.d4e86e67.css.map",
+    "main.9ef2d21f.js.map": "/static/js/main.9ef2d21f.js.map",
+    "885.7b0d6cd6.chunk.js.map": "/static/js/885.7b0d6cd6.chunk.js.map",
+    "453.9bb3d7fb.chunk.js.map": "/static/js/453.9bb3d7fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4e86e67.css",
+    "static/js/main.9ef2d21f.js"
+  ]
+}
